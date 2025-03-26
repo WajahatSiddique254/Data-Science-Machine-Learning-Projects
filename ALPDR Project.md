@@ -8,7 +8,9 @@
 ---
 
 ## Preview
-[ALPDR Poster.pdf](https://github.com/user-attachments/files/19475975/ALPDR.Poster.pdf)  
+##### Download Poster in PDF: [ALPDR Poster.pdf](https://github.com/user-attachments/files/19475975/ALPDR.Poster.pdf)  
+![image](https://github.com/user-attachments/assets/d0df8e70-6761-476d-a705-ec5d2787d827)
+
 
 ---
 
@@ -62,8 +64,8 @@ Our project implements an advanced **Automated Vehicle License Plate Detection a
 ---
 
 ## Project Links
-- **GitHub Repository:** [Insert GitHub Repository Link Here]
-- **Dataset Link:** [Vehicle Number Plate Dataset](https://github.com/umarsaeed12/Pakistan-Vehicle-Number-Plate-Dataset)
 
-For any queries, feel free to reach out at:  
-- Email: mumer012001@gmail.com, wajahatsiddique254@gmail.com
+- **Dataset Link:** [Vehicle Number Plate Dataset](https://github.com/umarsaeed12/Pakistan-Vehicle-Number-Plate-Dataset)
+---
+💼 LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/wajahatsiddique) 
+
